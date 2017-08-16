@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8px" height="17px" viewBox="0 0 8 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Login-#2" transform="translate(-552.000000, -630.000000)" fill="#FFFFFF">
+            <path d="M553.772362,647 L553.772362,638.5 L552,638.5 L552,635.569999 L553.772362,635.569999 L553.772362,633.811612 C553.772362,631.42295 554.77358,630 557.615403,630 L559.982452,630 L559.982452,632.930001 L558.503534,632.930001 C557.397027,632.930001 557.322934,633.339873 557.322934,634.103548 L557.319035,635.569999 L560,635.569999 L559.686083,638.5 L557.319035,638.5 L557.319035,647 L553.772362,647 Z" id="Facebook"></path>
+        </g>
+    </g>
+</svg>
